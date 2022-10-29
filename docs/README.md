@@ -1,4 +1,4 @@
-# The paper is under reviewing.
+# The paper is under review.
 
 Latest version: https://arxiv.org/abs/2210.15366
 
