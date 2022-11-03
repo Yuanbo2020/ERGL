@@ -11,7 +11,7 @@ The ERGL is uploading....
 
 <h3 align="center"> 1. airport <p></p></h3>
 <div align="center">
-<img src="../Visual_supplements/airport_1472.png" width=24%/>
+<img src="airport_1472.png" width=24%/>
 <img src="../Visual_supplements/airport_1904.png" width=24%/> 
 <img src="../Visual_supplements/airport_371.png" width=24%/>
 <img src="../Visual_supplements/airport_691.png" width=24%/>
