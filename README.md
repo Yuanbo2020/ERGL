@@ -10,70 +10,70 @@ The top 25 events simply depend on the entire dataset and are not specifically s
 <h3 align="center"> 1. airport <p></p></h3>
 <div align="center">
 <img src="Some_sample_graphs/437_airport.png" width=45%/>
-<img src="Some_sample_graphs/0_background.png" width=0.5%/>
+<img src="Some_sample_graphs/0_background.png" width=0.3%/>
 <img src="Some_sample_graphs/163_airport.png" width=45%/>
 </div>  
 
 <h3 align="center"> 2. bus <p></p></h3>
 <div align="center">
 <img src="Some_sample_graphs/259_bus.png" width=45%/>
-<img src="Some_sample_graphs/0_background.png" width=0.5%/>
+<img src="Some_sample_graphs/0_background.png" width=0.3%/>
 <img src="Some_sample_graphs/88_bus.png" width=45%/>
 </div>  
 
 <h3 align="center"> 3. metro <p></p></h3>
 <div align="center">
 <img src="Some_sample_graphs/14_metro.png" width=45%/>
-<img src="Some_sample_graphs/0_background.png" width=0.5%/>
+<img src="Some_sample_graphs/0_background.png" width=0.3%/>
 <img src="Some_sample_graphs/82_metro.png" width=45%/>
 </div> 
 
 <h3 align="center"> 4. metro station <p></p></h3>
 <div align="center">
 <img src="Some_sample_graphs/428_metro_station.png" width=45%/>
-<img src="Some_sample_graphs/0_background.png" width=0.5%/>
+<img src="Some_sample_graphs/0_background.png" width=0.3%/>
 <img src="Some_sample_graphs/56_metro_station.png" width=45%/>
 </div>  
 
 <h3 align="center"> 5. park <p></p></h3>
 <div align="center">
 <img src="Some_sample_graphs/436_park.png" width=45%/>
-<img src="Some_sample_graphs/0_background.png" width=0.5%/>
+<img src="Some_sample_graphs/0_background.png" width=0.3%/>
 <img src="Some_sample_graphs/284_park.png" width=45%/>
 </div>  
 
 <h3 align="center"> 6. public square <p></p></h3>
 <div align="center">
 <img src="Some_sample_graphs/344_public_square.png" width=45%/>
-<img src="Some_sample_graphs/0_background.png" width=0.5%/>
+<img src="Some_sample_graphs/0_background.png" width=0.3%/>
 <img src="Some_sample_graphs/124_public_square.png" width=45%/>
 </div>  
 
 <h3 align="center"> 7. shopping mall <p></p></h3>
 <div align="center">
 <img src="Some_sample_graphs/404_shopping_mall.png" width=45%/>
-<img src="Some_sample_graphs/0_background.png" width=0.5%/>
+<img src="Some_sample_graphs/0_background.png" width=0.3%/>
 <img src="Some_sample_graphs/197_shopping_mall.png" width=45%/>
 </div>  
 
 <h3 align="center"> 8. street pedestrian <p></p></h3>
 <div align="center">
 <img src="Some_sample_graphs/182_street_pedestrian.png" width=45%/>
-<img src="Some_sample_graphs/0_background.png" width=0.5%/>
+<img src="Some_sample_graphs/0_background.png" width=0.3%/>
 <img src="Some_sample_graphs/92_street_pedestrian.png" width=45%/>
 </div>  
 
 <h3 align="center"> 9. street traffic <p></p></h3>
 <div align="center">
 <img src="Some_sample_graphs/146_street_traffic.png" width=45%/>
-<img src="Some_sample_graphs/0_background.png" width=0.5%/>
+<img src="Some_sample_graphs/0_background.png" width=0.3%/>
 <img src="Some_sample_graphs/53_street_traffic.png" width=45%/>
 </div>  
 
 <h3 align="center"> 10. tram <p></p></h3>
 <div align="center">
 <img src="Some_sample_graphs/280_tram.png" width=45%/>
-<img src="Some_sample_graphs/0_background.png" width=0.5%/>
+<img src="Some_sample_graphs/0_background.png" width=0.3%/>
 <img src="Some_sample_graphs/116_tram.png" width=45%/>
 </div>  
 
